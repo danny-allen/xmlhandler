@@ -1,6 +1,6 @@
 <?php
 
-namespace XML;
+namespace DannyAllen;
 use Exception;
 use DOMDocument;
 
