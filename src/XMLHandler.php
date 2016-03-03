@@ -1,6 +1,6 @@
 <?php
 
-namespace DannyAllen;
+namespace Dao;
 use Exception;
 use DOMDocument;
 

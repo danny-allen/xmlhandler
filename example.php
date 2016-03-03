@@ -1,8 +1,10 @@
 <?php
 	
+	//autoloader
 	require_once('vendor/autoload.php');
 
-	use DannyAllen\XMLHandler;
+	//what we are using
+	use Dao\XMLHandler;
 
 	//set xml headers
 	header("Content-type: text/xml");
